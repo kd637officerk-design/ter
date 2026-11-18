@@ -1,0 +1,6 @@
+{
+  "appId": "com.absolute.one",
+  "appName": "ABSOLUTE #1",
+  "webDir": "www",
+  "android": { "allowMixedContent": true }
+}
